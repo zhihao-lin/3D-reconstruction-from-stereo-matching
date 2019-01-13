@@ -8,4 +8,5 @@
 
 > test test
 > hello
+  print('hello')
 
