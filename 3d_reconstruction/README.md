@@ -6,7 +6,5 @@
   for more details). You can play with the codes and instrucitons below.
 
 
-> test test
-> hello
   print('hello')
 
