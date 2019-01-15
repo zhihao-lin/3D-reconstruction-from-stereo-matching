@@ -10,7 +10,7 @@ and links below are useful to understand more about this great work:
 The original github repo is full of bug and inconsistent in coding style, so we used the 
 reimplementation one to get things work, however, the pretrained model can't be loaded 
 for some reason, so we trained for about 700 epochs (batch size = 3), and we provide 
-the pretrained model [here](https://drive.google.com/drive/u/0/my-drive)
+the pretrained model [here](https://drive.google.com/file/d/1D8xz1fwA9OBOK8RRtJPXMmLZp96gxNLi/view)
 and use our inference.py to predict disparity between left and right images by:
 
 ```
