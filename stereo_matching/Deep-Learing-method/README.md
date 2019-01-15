@@ -30,4 +30,4 @@ python3 inference.py \
 ![right img](right.png)
 
 ## disparity result
-![disp img]()
+![disp img](disp.png)
