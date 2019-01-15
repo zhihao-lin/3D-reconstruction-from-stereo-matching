@@ -19,5 +19,4 @@ NTU CSIE ICG 2019 Fall final project
 * 3d_reconstruction/ : files to build 3D model 
 * app/ & server/ : show the result on the website
 
-If you are interested, you can also watch out final presentation slides and report in this repo.
-have fun with this !
+The final presentation slides and report are also in this repo.
