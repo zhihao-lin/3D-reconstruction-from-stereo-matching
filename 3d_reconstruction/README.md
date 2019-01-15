@@ -37,5 +37,5 @@ python3 show.py --rgb <path to RGB image>  --depth <path to corresponding depth 
 ### original 2D image
 ![2d](../images/left.png)
 
-### 3D model
+### 3D model (after rotating horizontally for a little)
 ![pygame](../images/pygame.png)
