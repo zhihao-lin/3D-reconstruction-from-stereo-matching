@@ -23,6 +23,10 @@ python3 inference.py \
 
 > Note: the code would generate **disp.py** too, which can be used to reconstruct 3D model (look corresponding directory for more details)
 
+> Note: If you want to train the model from scatch, you should download the dataset **Download stereo 2015/flow 2015/scene flow 2015 data set (2 GB)** from the page [kitti](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo)
+
+The result can be shown below:
+
 ## left image
 ![left img](left.png)
 
