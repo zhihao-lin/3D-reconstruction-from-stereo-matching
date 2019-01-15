@@ -5,7 +5,7 @@ and links below are useful to understand more about this great work:
 
 * [arXiv link to paper](https://arxiv.org/abs/1803.08669)
 * [Original github repo](https://github.com/JiaRenChang/PSMNet)
-* 「github repo of reimplementation](https://github.com/KinglittleQ/PSMNet)
+* [github repo of reimplementation](https://github.com/KinglittleQ/PSMNet)
 
 The original github repo is full of bug and inconsistent in coding style, so we used the 
 reimplementation one to get things work, however, the pretrained model can't be loaded 
@@ -23,3 +23,11 @@ python3 inference.py \
 
 > Note: the code would generate **disp.py** too, which can be used to reconstruct 3D model (look corresponding directory for more details)
 
+## left image
+![left img](left.png)
+
+## right image
+![right img](right.png)
+
+## disparity result
+![disp img]()
