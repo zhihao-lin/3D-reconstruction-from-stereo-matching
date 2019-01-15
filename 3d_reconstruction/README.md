@@ -34,5 +34,8 @@ python3 show.py --rgb <path to RGB image>  --depth <path to corresponding depth 
 
 > note: the RGB image and deth inforamtion file must have same width and height.
 
-### result
+### original 2D image
+![2d](../images/left.png)
+
+### 3D model
 ![pygame](../images/pygame.png)
